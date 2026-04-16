@@ -1,0 +1,20 @@
+[
+    {
+        "case": "Standard Auto-Resolution",
+        "result": "\u2705 PASS",
+        "output_status": "AUTO_COMPLETED",
+        "remark": "Executed Auto-Refund"
+    },
+    {
+        "case": "High Value Escalation (Risk Rule)",
+        "result": "\u2705 PASS",
+        "output_status": "ESCALATED",
+        "remark": "Value exceeds auto-limit threshold."
+    },
+    {
+        "case": "GDPR Compliance Check",
+        "result": "\u2705 PASS",
+        "output_status": "AUTO_COMPLETED",
+        "remark": "Executed Update_Profile"
+    }
+]
