@@ -1,5 +1,6 @@
 # 🛡️ Flux Settlement Engine
 Strategic framework for fintech automation (Flutter UK&I context). 
+[app]https://flux-settlement-engine-dbhwzhpk3f5hmwfrka9cna.streamlit.app/
 
 ### 🚀 Key Pillars
 * **Security:** Local GDPR redaction via `DataSanitizer` to prevent PII leakage.
